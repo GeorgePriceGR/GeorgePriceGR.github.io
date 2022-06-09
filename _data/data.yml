@@ -16,7 +16,8 @@ sidebar:
     phone: 617 775 2699
     citizenship:
     website: 
-    linkedin: www.linkedin.com/in/george-price-387899164/
+    linkedin: https://www.linkedin.com/in/george-price-387899164/
+    googlescholar: https://scholar.google.com/citations?user=-1mYtWIAAAAJ&hl=en
     xing: 
     github: 
     telegram: # add your nickname without '@' sign
@@ -31,12 +32,6 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Soccer & Endurance Sports
@@ -57,9 +52,9 @@ career-profile:
       Pediatric Neurosurgery department prior to joining Dartmouth. Currently, my primary research interest is leveraging both deep learning 
       and traditional machine learning models on passively collected data (e.g., physical activity) to predict mental health outcomes and symptomatology.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in Quantitative Biomedical Science
+      university: Dartmouth College
+      time: 2020 - 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -68,6 +63,13 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: Candidate for MS in Health Data Science
+      university: Dartmouth College
+      time: 2019
+      details: |
+        Candidate for Master's of Health Data Science Degree in the
+        Quantitative Biomedical Science program at Dartmouth before
+        matriculating into the PhD program in the Fall quarter of 2020.
     - degree: BSc in Biology
       university: Boston College
       time: 2013 - 2017
@@ -77,10 +79,10 @@ education:
         sociis natoque penatibus et magnis dis parturient montes, nascetur
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Undergraduate Indepedent Research, MGH (2015-2017)
+          - Dean's List First Honors (2016, 2017)
 experiences:
-    - role: Lead Developer
+    - role: Lab Manager
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
