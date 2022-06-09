@@ -8,21 +8,21 @@ sidebar:
 
     # Profile information
     name: George D. Price
-    tagline: Ph.D. Candidate
+    tagline: Ph.D. Candidate, Quantitative Biomedical Science Program, Dartmouth College
     avatar: George_Price_Headshot.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: george.price.gr@dartmouth.edu
+    phone: 617 775 2699
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: 
+    linkedin: www.linkedin.com/in/george-price-387899164/
+    xing: 
+    github: 
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,24 +39,23 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Soccer & Endurance Sports
         link:
 
-      - item: Snowboarding
+      - item: Reading & Podcasts
         link:
 
-      - item: Cooking
+      - item: Sustainable Cooking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am currently a Ph.D. candidate in the Quantitative Biomedical Sciences Department at Dartmouth’s Geisel School of Medicine, 
+      working under Dr. Nicholas Jacobson in the AI and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH) laboratory. 
+      I graduated from Boston College with a Bachelors of Science in Biology, and worked at Massachusetts General Hospital in the 
+      Pediatric Neurosurgery department prior to joining Dartmouth. Currently, my primary research interest is leveraging both deep learning 
+      and traditional machine learning models on passively collected data (e.g., physical activity) to predict mental health outcomes and symptomatology.
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -69,9 +68,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Biology
+      university: Boston College
+      time: 2013 - 2017
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
