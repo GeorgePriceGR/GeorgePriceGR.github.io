@@ -4,7 +4,7 @@
 
 sidebar:
     about: False
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: George D. Price
@@ -172,22 +172,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & R
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: Flutter & Dart
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Illustrator
+        level: 80%
 
 footer: 
