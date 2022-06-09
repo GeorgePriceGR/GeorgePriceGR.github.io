@@ -16,7 +16,7 @@ sidebar:
     phone: 617 775 2699
     citizenship:
     website: 
-    linkedin: https://www.linkedin.com/in/george-price-387899164/
+    linkedin: 'https://www.linkedin.com/in/george-price-387899164/'
     googlescholar: https://scholar.google.com/citations?user=-1mYtWIAAAAJ&hl=en
     xing: 
     github: 
@@ -29,9 +29,9 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      - idiom: English
-        level: Native
+#     languages:
+#       - idiom: English
+#         level: Native
 
     interests:
       - item: Soccer & Endurance Sports
