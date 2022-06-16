@@ -50,7 +50,8 @@ career-profile:
       working under Dr. Nicholas Jacobson in the AI and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH) laboratory. 
       I graduated from Boston College with a Bachelors of Science in Biology, and worked at Massachusetts General Hospital in the 
       Pediatric Neurosurgery department prior to joining Dartmouth. Currently, my primary research interest is leveraging both deep learning 
-      and traditional machine learning models on passively collected data (e.g., physical activity) to predict mental health outcomes and symptomatology.
+      and traditional machine learning approahces with passively collected informayion (e.g., physical activity) to predict mental health-related 
+      outcomes and symptomatology.
 education:
     - degree: PhD in Quantitative Biomedical Science
       university: Dartmouth College
