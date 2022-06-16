@@ -121,7 +121,7 @@ projects:
       
     assignments:
       - title: Mood Triggers
-        link: "#hook"
+        link: "https://www.youtube.com/watch?v=Lx-hqXYDEGE"
         tagline: "The Mood Triggers application is an android and iOS supported Flutter application targeted at providing mental health-related resources and user-specific descriptive information based on longitudinal ecological momentary assessment and passively-collected sensor information."
 
 publications:
