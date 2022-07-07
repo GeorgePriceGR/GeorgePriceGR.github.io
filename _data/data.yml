@@ -46,11 +46,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am currently a Ph.D. candidate in the Quantitative Biomedical Sciences Department at Dartmouth’s Geisel School of Medicine, 
+      I am currently a Ph.D. candidate in the Quantitative Biomedical Sciences Program at Dartmouth’s Geisel School of Medicine, 
       working under Dr. Nicholas Jacobson in the AI and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH) laboratory. 
       I graduated from Boston College with a Bachelors of Science in Biology, and worked at Massachusetts General Hospital in the 
       Pediatric Neurosurgery department prior to joining Dartmouth. Currently, my primary research interest is leveraging both deep learning 
-      and traditional machine learning approahces with passively collected informayion (e.g., physical activity) to predict mental health-related 
+      and traditional machine learning approahces with passively collected information (e.g., physical activity) to predict mental health-related 
       outcomes and symptomatology.
 education:
     - degree: PhD in Quantitative Biomedical Science
