@@ -130,20 +130,21 @@ publications:
     intro: |
     
     papers:
+      - title: "Predicting Symptom Response and Engagement in a Digital Intervention Among Individuals with Schizophrenia and Related Psychoses (in press)"
+        link:
+        authors: "George D. Price, BS; Michael V. Heinz; Matthew Nemesure, BS; Jason R. McFadden; Nicholas C. Jacobson"
+        conference: Frontiers in Psychiatry: Digital Mental Health, 2022
+        
       - title: "Association of Selective Serotonin Reuptake Inhibitor Use With Abnormal Physical Movement Patterns as Detected Using a Piezoelectric Accelerometer and Deep Learning in a Nationally Representative Sample of Noninstitutionalized Persons in the US"
         link: "https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2790799"
         authors: "Michael V. Heinz, MD; George D. Price, BS; Franklin Ruan; Robert J. Klein, PhD; Matthew Nemesure, BS; Aliza Lopez; Nicholas C. Jacobson, PhD"
         conference: JAMA Network Open, 2022
 
-      - title: Using Smartphone App Use and Lagged-Ensemble Machine Learning for the Prediction of Work Fatigue and Boredom
+      - title: "Using Smartphone App Use and Lagged-Ensemble Machine Learning for the Prediction of Work Fatigue and Boredom"
         link: "https://www.sciencedirect.com/science/article/pii/S0747563221003526"
         authors: "Damien Lekkas; George D. Price, BS; Nicholas C. Jacobson"
         conference: Computers in Human Behavior, 2021
 
-      - title: "Flattening the Mental Health Curve: COVID-19 Stay-at-Home Orders are Associated with Alterations in Mental Health Search Behavior in the United States"
-        link: "https://mental.jmir.org/2020/6/e19347"
-        authors: "Nicholas C. Jacobson; Damien Lekkas; George D. Price, BS; Michael V. Heinz; Minkeun Song; A James O’Malley; Paul J. Barr"
-        conference: JMIR, 2020
 
 skills:
     title: Skills &amp; Proficiency
