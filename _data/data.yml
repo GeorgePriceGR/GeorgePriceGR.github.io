@@ -130,12 +130,12 @@ publications:
     intro: |
     
     papers:
-      - title: "An Unsupervised Machine Learning Approach Using Passive Movement Data to Understand Depression and Schizophrenia (in press)"
+      - title: "An Unsupervised Machine Learning Approach Using Passive Movement Data to Understand Depression and Schizophrenia"
         link: "https://www.sciencedirect.com/science/article/pii/S0165032722008631"
         authors: "George D. Price, BS; Michael V. Heinz; Daniel Zhao; Matthew Nemesure, BS; Franklin Ruan; Nicholas C. Jacobson"
         conference: Journal of Affective Disorders, 2022
         
-      - title: "Predicting Symptom Response and Engagement in a Digital Intervention Among Individuals with Schizophrenia and Related Psychoses (in press)"
+      - title: "Predicting Symptom Response and Engagement in a Digital Intervention Among Individuals with Schizophrenia and Related Psychoses"
         link: "https://www.frontiersin.org/articles/10.3389/fpsyt.2022.807116/full"
         authors: "George D. Price, BS; Michael V. Heinz; Matthew Nemesure, BS; Jason R. McFadden; Nicholas C. Jacobson, PhD"
         conference: Frontiers in Psychiatry, Digital Mental Health, 2022
